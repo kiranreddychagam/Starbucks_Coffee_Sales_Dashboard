@@ -1,4 +1,4 @@
-# Coffee_Sales_Dashboard
+# Starbucks_Coffee_Sales_Dashboard
 In this project, I developed an interactive dashboard using coffee orders data to provide insightful visualizations and data analysis. The project involved cleaning and sorting the raw data using Excel functions like IF, XLOOKUP, and INDEXMATCH to ensure accuracy and relevance.
 <img width="1275" alt="Screenshot 2024-09-01 at 8 17 57 PM" src="https://github.com/user-attachments/assets/a4de7a85-409d-4f0d-a73b-8957fc1023a0">
 
